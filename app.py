@@ -50,7 +50,7 @@ def predict_species(sep_len, sep_width, pet_len, pet_width, scaler_path, model_p
 # -------------------------------
 # Streamlit App UI
 # -------------------------------
-st.title("🌸 Iris Species Predictor")
+st.title(" Iris Species Predictor")
 
 st.markdown("Enter the measurements of your Iris flower below:")
 
